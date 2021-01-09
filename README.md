@@ -5,7 +5,8 @@ Template project of Typescript
 ```console
 git clone https://github.com/Thiroaki/typescript-template.git
 cd typescript-template
-rm .git
+rm .git README.md
+git init
 npm i
 ```
 Rename project name and install other package as you like.
