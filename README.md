@@ -5,6 +5,7 @@ Template project of Typescript
 ```console
 npm i
 ```
+
 ## Configuration
 Build files are placed at `dist` directory.  
 ### Versions
