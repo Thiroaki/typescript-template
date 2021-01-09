@@ -3,8 +3,12 @@ Template project of Typescript
 
 ## Setup
 ```console
+git clone https://github.com/Thiroaki/typescript-template.git
+cd typescript-template
+rm .git
 npm i
 ```
+Rename project name and install other package as you like.
 
 ## Configuration
 Build files are placed at `dist` directory.  
